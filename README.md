@@ -6,13 +6,15 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 2 |
+| 3 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [constructive algorithms](#constructive-algorithms) (1)
+- [greedy](#greedy) (1)
+- [implementation](#implementation) (1)
 - [shortest paths](#shortest-paths) (1)
 
 ---
@@ -22,6 +24,18 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2247B | [Yet Another Constructive](https://codeforces.com/contest/2247/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/techindro/https-github.com-techindro-Codeforce-challenge/blob/HEAD/2247/B%20-%20Yet%20Another%20Constructive/solution.cpp) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 33A | [What is for dinner?](https://codeforces.com/contest/33/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/techindro/https-github.com-techindro-Codeforce-challenge/blob/HEAD/33/A%20-%20What%20is%20for%20dinner%3F/solution.cpp) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 33A | [What is for dinner?](https://codeforces.com/contest/33/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/techindro/https-github.com-techindro-Codeforce-challenge/blob/HEAD/33/A%20-%20What%20is%20for%20dinner%3F/solution.cpp) |
 
 ### shortest paths
 
