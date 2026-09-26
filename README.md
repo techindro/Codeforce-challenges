@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 7 | 5 |
+| 8 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (4)
+- [Uncategorized](#uncategorized) (5)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [greedy](#greedy) (1)
 - [implementation](#implementation) (1)
@@ -28,6 +28,7 @@
 | 2267E | [Clean Substrings](https://codeforces.com/contest/2267/problem/E) | Unrated | [C++20 (GCC 13-64)](https://github.com/techindro/https-github.com-techindro-Codeforce-challenge/blob/HEAD/2267/E%20-%20Clean%20Substrings/solution.cpp) |
 | 2267F1 | [XOR Transformations (Easy Version)](https://codeforces.com/contest/2267/problem/F1) | Unrated | [C++20 (GCC 13-64)](https://github.com/techindro/https-github.com-techindro-Codeforce-challenge/blob/HEAD/2267/F1%20-%20XOR%20Transformations%20(Easy%20Version)/solution.cpp) |
 | 2269B | [KiaKio and Squared Numbers](https://codeforces.com/contest/2269/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/techindro/https-github.com-techindro-Codeforce-challenge/blob/HEAD/2269/B%20-%20KiaKio%20and%20Squared%20Numbers/solution.cpp) |
+| 2269D | [What a SauSaGe! It's All Meat](https://codeforces.com/contest/2269/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/techindro/https-github.com-techindro-Codeforce-challenge/blob/HEAD/2269/D%20-%20What%20a%20SauSaGe!%20It's%20All%20Meat/solution.cpp) |
 
 ### constructive algorithms
 
