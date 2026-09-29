@@ -6,22 +6,30 @@
 
 | Total Problems | Topics |
 |---|---|
-| 9 | 8 |
+| 10 | 10 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [2-sat](#2-sat) (1)
 - [Uncategorized](#uncategorized) (5)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [data structures](#data-structures) (1)
-- [dfs and similar](#dfs-and-similar) (1)
-- [graphs](#graphs) (1)
+- [dfs and similar](#dfs-and-similar) (2)
+- [dsu](#dsu) (1)
+- [graphs](#graphs) (2)
 - [greedy](#greedy) (1)
 - [implementation](#implementation) (2)
 - [shortest paths](#shortest-paths) (1)
 
 ---
+
+### 2-sat
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 27D | [Ring Road 2](https://codeforces.com/contest/27/problem/D) | 2200 | [C++20 (GCC 13-64)](https://github.com/techindro/https-github.com-techindro-Codeforce-challenge/blob/HEAD/27/D%20-%20Ring%20Road%202/solution.cpp) |
 
 ### Uncategorized
 
@@ -49,12 +57,20 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 27D | [Ring Road 2](https://codeforces.com/contest/27/problem/D) | 2200 | [C++20 (GCC 13-64)](https://github.com/techindro/https-github.com-techindro-Codeforce-challenge/blob/HEAD/27/D%20-%20Ring%20Road%202/solution.cpp) |
 | 29C | [Mail Stamps](https://codeforces.com/contest/29/problem/C) | 1700 | [C++20 (GCC 13-64)](https://github.com/techindro/https-github.com-techindro-Codeforce-challenge/blob/HEAD/29/C%20-%20Mail%20Stamps/solution.cpp) |
+
+### dsu
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 27D | [Ring Road 2](https://codeforces.com/contest/27/problem/D) | 2200 | [C++20 (GCC 13-64)](https://github.com/techindro/https-github.com-techindro-Codeforce-challenge/blob/HEAD/27/D%20-%20Ring%20Road%202/solution.cpp) |
 
 ### graphs
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 27D | [Ring Road 2](https://codeforces.com/contest/27/problem/D) | 2200 | [C++20 (GCC 13-64)](https://github.com/techindro/https-github.com-techindro-Codeforce-challenge/blob/HEAD/27/D%20-%20Ring%20Road%202/solution.cpp) |
 | 29C | [Mail Stamps](https://codeforces.com/contest/29/problem/C) | 1700 | [C++20 (GCC 13-64)](https://github.com/techindro/https-github.com-techindro-Codeforce-challenge/blob/HEAD/29/C%20-%20Mail%20Stamps/solution.cpp) |
 
 ### greedy
