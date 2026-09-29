@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 8 | 5 |
+| 9 | 8 |
 
 ---
 
@@ -14,8 +14,11 @@
 
 - [Uncategorized](#uncategorized) (5)
 - [constructive algorithms](#constructive-algorithms) (1)
+- [data structures](#data-structures) (1)
+- [dfs and similar](#dfs-and-similar) (1)
+- [graphs](#graphs) (1)
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (1)
+- [implementation](#implementation) (2)
 - [shortest paths](#shortest-paths) (1)
 
 ---
@@ -36,6 +39,24 @@
 |---|---------|------------|----------|
 | 2247B | [Yet Another Constructive](https://codeforces.com/contest/2247/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/techindro/https-github.com-techindro-Codeforce-challenge/blob/HEAD/2247/B%20-%20Yet%20Another%20Constructive/solution.cpp) |
 
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 29C | [Mail Stamps](https://codeforces.com/contest/29/problem/C) | 1700 | [C++20 (GCC 13-64)](https://github.com/techindro/https-github.com-techindro-Codeforce-challenge/blob/HEAD/29/C%20-%20Mail%20Stamps/solution.cpp) |
+
+### dfs and similar
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 29C | [Mail Stamps](https://codeforces.com/contest/29/problem/C) | 1700 | [C++20 (GCC 13-64)](https://github.com/techindro/https-github.com-techindro-Codeforce-challenge/blob/HEAD/29/C%20-%20Mail%20Stamps/solution.cpp) |
+
+### graphs
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 29C | [Mail Stamps](https://codeforces.com/contest/29/problem/C) | 1700 | [C++20 (GCC 13-64)](https://github.com/techindro/https-github.com-techindro-Codeforce-challenge/blob/HEAD/29/C%20-%20Mail%20Stamps/solution.cpp) |
+
 ### greedy
 
 | # | Problem | Difficulty | Solution |
@@ -46,6 +67,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 29C | [Mail Stamps](https://codeforces.com/contest/29/problem/C) | 1700 | [C++20 (GCC 13-64)](https://github.com/techindro/https-github.com-techindro-Codeforce-challenge/blob/HEAD/29/C%20-%20Mail%20Stamps/solution.cpp) |
 | 33A | [What is for dinner?](https://codeforces.com/contest/33/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/techindro/https-github.com-techindro-Codeforce-challenge/blob/HEAD/33/A%20-%20What%20is%20for%20dinner%3F/solution.cpp) |
 
 ### shortest paths
