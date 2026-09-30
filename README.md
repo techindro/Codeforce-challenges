@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 10 | 10 |
+| 11 | 12 |
 
 ---
 
@@ -21,7 +21,9 @@
 - [graphs](#graphs) (2)
 - [greedy](#greedy) (1)
 - [implementation](#implementation) (2)
+- [math](#math) (1)
 - [shortest paths](#shortest-paths) (1)
+- [sortings](#sortings) (1)
 
 ---
 
@@ -86,11 +88,23 @@
 | 29C | [Mail Stamps](https://codeforces.com/contest/29/problem/C) | 1700 | [C++20 (GCC 13-64)](https://github.com/techindro/https-github.com-techindro-Codeforce-challenge/blob/HEAD/29/C%20-%20Mail%20Stamps/solution.cpp) |
 | 33A | [What is for dinner?](https://codeforces.com/contest/33/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/techindro/https-github.com-techindro-Codeforce-challenge/blob/HEAD/33/A%20-%20What%20is%20for%20dinner%3F/solution.cpp) |
 
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/techindro/https-github.com-techindro-Codeforce-challenge/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
+
 ### shortest paths
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 33B | [String Problem](https://codeforces.com/contest/33/problem/B) | 1800 | [C++20 (GCC 13-64)](https://github.com/techindro/https-github.com-techindro-Codeforce-challenge/blob/HEAD/33/B%20-%20String%20Problem/solution.cpp) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/techindro/https-github.com-techindro-Codeforce-challenge/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
 
 ---
 
