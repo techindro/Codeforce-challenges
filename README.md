@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 11 | 12 |
+| 12 | 12 |
 
 ---
 
@@ -20,10 +20,10 @@
 - [dsu](#dsu) (1)
 - [graphs](#graphs) (2)
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (2)
+- [implementation](#implementation) (3)
 - [math](#math) (1)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (1)
+- [sortings](#sortings) (2)
 
 ---
 
@@ -85,6 +85,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 15A | [Cottage Village](https://codeforces.com/contest/15/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/techindro/https-github.com-techindro-Codeforce-challenge/blob/HEAD/15/A%20-%20Cottage%20Village/solution.cpp) |
 | 29C | [Mail Stamps](https://codeforces.com/contest/29/problem/C) | 1700 | [C++20 (GCC 13-64)](https://github.com/techindro/https-github.com-techindro-Codeforce-challenge/blob/HEAD/29/C%20-%20Mail%20Stamps/solution.cpp) |
 | 33A | [What is for dinner?](https://codeforces.com/contest/33/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/techindro/https-github.com-techindro-Codeforce-challenge/blob/HEAD/33/A%20-%20What%20is%20for%20dinner%3F/solution.cpp) |
 
@@ -104,6 +105,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 15A | [Cottage Village](https://codeforces.com/contest/15/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/techindro/https-github.com-techindro-Codeforce-challenge/blob/HEAD/15/A%20-%20Cottage%20Village/solution.cpp) |
 | 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/techindro/https-github.com-techindro-Codeforce-challenge/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
 
 ---
